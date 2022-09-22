@@ -11,3 +11,7 @@
     text-decoration: none;
     font-size: 10px;
 }
+
+.body {
+    flood-opacity: 0%;
+}
